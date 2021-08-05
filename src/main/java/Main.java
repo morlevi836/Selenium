@@ -21,7 +21,6 @@ public class Main {
         login(userName, password);
         Thread.sleep(3000);
         printCoursesList();
-        Thread.sleep(2000);
         logout();
     }
 
